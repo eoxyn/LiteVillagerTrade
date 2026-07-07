@@ -18,8 +18,8 @@
 ---
 
 ### 💳 Economy & Custom Currency Support
+<img width="1376" height="768" alt="vault_currency_banner" src="https://github.com/user-attachments/assets/3eb37116-4e32-429c-9041-7f64ee4f112b" />
 
-![Vault Integration](assets/vault_currency_banner.jpg)
 
 LiteVillagerTrade offers robust integration with Vault and PlaceholderAPI:
 * **Vault Integration**: Charge players virtual money for trades. Fares are automatically debited from their Vault balance.
@@ -29,8 +29,6 @@ LiteVillagerTrade offers robust integration with Vault and PlaceholderAPI:
 ---
 
 ### 🎭 Visual customizer and NPC models
-
-![NPC Customization](assets/fancynpcs_customization_banner.jpg)
 
 Customize your shopkeeper's appearance directly inside an interactive GUI:
 * **NPC Types**: Cycle shopkeepers between standard Minecraft `VILLAGER`, `WANDERING_TRADER`, or **FancyNPC Player Models**.
