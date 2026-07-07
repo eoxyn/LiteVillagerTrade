@@ -1,16 +1,18 @@
-# LiteVillagerTrade
+<img width="1376" height="768" alt="litevillagertrade_banner" src="https://github.com/user-attachments/assets/8f9f6f9d-3057-43b0-ae28-69bb17008d09" />
+<p align="center">
+  <a href="https://bstats.org/plugin/bukkit/LiteVillagerTrade/YOUR_BSTATS_ID">
+    <img src="https://bstats.org/signatures/bukkit/LiteVillagerTrade.svg" width="400" alt="LiteVillagerTrade bStats statistics">
+  </a>
+</p>
 
-![LiteVillagerTrade Banner](assets/litevillagertrade_banner.jpg)
-
-**LiteVillagerTrade** is a next-generation, high-performance, and **Folia-ready** shopkeepers-style trading plugin for Minecraft servers. Built from the ground up for modern server environments, it allows server administrators and players to set up customized merchant shops with infinite stock (Admin Shops) or chest-linked physical stock (Player Shops).
+**LiteVillagerTrade** is a next-generation, high-performance, and **Folia-ready** shopkeepers-style trading plugin for Minecraft servers. Built from the ground up for modern server environments, it allows server administrators to set up customized merchant shops with infinite stock (Admin Shops).
 
 ---
 
 ## 🌟 Key Features
 
-### 📦 Physical and Virtual Shop Modes
-* **Admin Shops**: Sell items with infinite stock—perfect for server marketplaces and admin-run trade booths.
-* **Player Shops**: Link your shopkeeper directly to any double or single chest within a short radius. Stock is checked, updated, and transactions occur synchronously in real-time, matching standard Minecraft chest mechanics.
+### 📦 Admin Shops with Infinite Stock
+* **Admin Shops**: Sell items with infinite stock—perfect for server marketplaces, admin-run trade booths, and server-wide economy shops.
 
 ---
 
