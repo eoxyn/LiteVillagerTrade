@@ -10,14 +10,14 @@
 
 ---
 
-## 🌟 Key Features
+##  Key Features
 
-### 📦 Admin Shops with Infinite Stock
+###  Admin Shops with Infinite Stock
 * **Admin Shops**: Sell items with infinite stock perfect for server marketplaces, admin-run trade booths, and server-wide economy shops.
 
 ---
 
-### 💳 Economy & Custom Currency Support
+###  Economy & Custom Currency Support
 <img width="1376" height="768" alt="vault_currency_banner" src="https://github.com/user-attachments/assets/3eb37116-4e32-429c-9041-7f64ee4f112b" />
 
 
@@ -30,7 +30,7 @@ LiteVillagerTrade offers robust integration with Vault and PlaceholderAPI:
 
 ---
 
-### 🎭 Visual customizer and NPC models
+###  Visual customizer and NPC models
 
 Customize your shopkeeper's appearance directly inside an interactive GUI:
 * **NPC Types**: Cycle shopkeepers between standard Minecraft `VILLAGER`, `WANDERING_TRADER`, or **FancyNPC Player Models**.
@@ -96,7 +96,7 @@ trade:
 
 ---
 
-## 💻 Developer API Events
+##  Developer API Events
 
 Developers can hook into LiteVillagerTrade lifecycle events:
 * `ShopCreateEvent`: Triggered when a new shop NPC is created.
