@@ -1,7 +1,7 @@
 <img width="1376" height="768" alt="litevillagertrade_banner" src="https://github.com/user-attachments/assets/8f9f6f9d-3057-43b0-ae28-69bb17008d09" />
 
 <p align="center">
-  <a href="https://bstats.org/plugin/bukkit/LiteVillagerTrade/YOUR_BSTATS_ID">
+  <a href="https://bstats.org/plugin/bukkit/LiteVillagerTrade/32455">
     <img src="https://bstats.org/signatures/bukkit/LiteVillagerTrade.svg" width="1200" alt="LiteVillagerTrade bStats statistics">
   </a>
 </p>
