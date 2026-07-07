@@ -6,14 +6,14 @@
   </a>
 </p>
 
-**LiteVillagerTrade** is a next-generation, high-performance, and **Folia-ready** shopkeepers-style trading plugin for Minecraft servers. Built from the ground up for modern server environments, it allows server administrators to set up customized merchant shops with infinite stock.
+**LiteVillagerTrade** is a next-generation, high performance, and **Folia-ready** shopkeepers-style trading plugin for Minecraft servers. Built from the ground up for modern server environments, it allows server administrators to set up customized merchant shops with infinite stock.
 
 ---
 
 ## 🌟 Key Features
 
 ### 📦 Admin Shops with Infinite Stock
-* **Admin Shops**: Sell items with infinite stock—perfect for server marketplaces, admin-run trade booths, and server-wide economy shops.
+* **Admin Shops**: Sell items with infinite stock perfect for server marketplaces, admin-run trade booths, and server-wide economy shops.
 
 ---
 
