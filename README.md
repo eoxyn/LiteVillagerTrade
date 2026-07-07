@@ -6,7 +6,7 @@
   </a>
 </p>
 
-**LiteVillagerTrade** is a next-generation, high-performance, and **Folia-ready** shopkeepers-style trading plugin for Minecraft servers. Built from the ground up for modern server environments, it allows server administrators to set up customized merchant shops with infinite stock (Admin Shops).
+**LiteVillagerTrade** is a next-generation, high-performance, and **Folia-ready** shopkeepers-style trading plugin for Minecraft servers. Built from the ground up for modern server environments, it allows server administrators to set up customized merchant shops with infinite stock.
 
 ---
 
@@ -25,6 +25,8 @@ LiteVillagerTrade offers robust integration with Vault and PlaceholderAPI:
 * **Vault Integration**: Charge players virtual money for trades. Fares are automatically debited from their Vault balance.
 * **Custom PAPI Currencies**: Define any custom currency using PlaceholderAPI (e.g., PlayerPoints, TokenManager, Coins, or custom variables) with custom GUI items, formatting, and balances.
 * **NBT-Safe Lore Cleanup**: Price lore is temporarily appended to items inside the merchant UI, but is **100% stripped and cleaned** upon successful purchase, ensuring items are returned to players with their original names, durability, and custom NBT tags intact.
+  
+<img width="765" height="345" alt="image" src="https://github.com/user-attachments/assets/fc7b5008-821f-4e35-a016-422d81902897" />
 
 ---
 
