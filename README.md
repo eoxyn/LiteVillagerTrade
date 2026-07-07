@@ -1,7 +1,8 @@
 <img width="1376" height="768" alt="litevillagertrade_banner" src="https://github.com/user-attachments/assets/8f9f6f9d-3057-43b0-ae28-69bb17008d09" />
+
 <p align="center">
   <a href="https://bstats.org/plugin/bukkit/LiteVillagerTrade/YOUR_BSTATS_ID">
-    <img src="https://bstats.org/signatures/bukkit/LiteVillagerTrade.svg" width="400" alt="LiteVillagerTrade bStats statistics">
+    <img src="https://bstats.org/signatures/bukkit/LiteVillagerTrade.svg" width="1200" alt="LiteVillagerTrade bStats statistics">
   </a>
 </p>
 
@@ -89,8 +90,8 @@ currencies:
 ```yaml
 # Premium hex and mini-message support
 trade:
-  cost-display: "<#888888>Ücret: <#ffd54f>$%price% Vault</#ffd54f></#888888>"
-  insufficient-funds: "<#ef5350>Yetersiz bakiye! Gerekli: $%price%</#ef5350>"
+  cost-display: "<#888888>Price: <#ffd54f>$%price% Vault</#ffd54f></#888888>"
+  insufficient-funds: "<#ef5350>Insufficient funds! Required: $%price%</#ef5350>"
 ```
 
 ---
@@ -101,4 +102,6 @@ Developers can hook into LiteVillagerTrade lifecycle events:
 * `ShopCreateEvent`: Triggered when a new shop NPC is created.
 * `ShopDeleteEvent`: Triggered when a shop NPC is removed.
 * `PlayerOpenShopEvent`: Triggered when a player interacts with a shopkeeper.
+* `PlayerPurchaseEvent`: Triggered when a transaction is completed in a shop.
+eper.
 * `PlayerPurchaseEvent`: Triggered when a transaction is completed in a shop.
